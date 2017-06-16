@@ -1,5 +1,3 @@
-# WolfandSheeps
-Prosta animacja przedstawiajaca wilka ganiajacego za owcami, ktory po dogodnieniu je zjada. Na start pojawia sie panel, 
-w ktorym trzeba podac podstawowe wlasnosci animacji takie jak: wielkosc planszy, liczba owiec, czy czas ruchu, a potem tylko
-obserwowac. Program zostal stworzony w celu uzyskania maksymalnej zgodnosci z poleceniem, dlatego chaotyczne ruchy owiec
-przy scianach moga sie wydawac niedopracowane, lecz takie bylo zamierzenie.
+# Painter-program
+
+Prosty program pozwalajacy na rysowanie roznych ksztaltow. Ksztalty mozna przesuwac myszka oraz zmieniac ich wielkosc za pomoca scrolla. Poza tym po kliknieciu ppm mozna nadac im obramowanie, zmieniac ich kolor oraz obramowania. Na koniec mozna nasz obrazek wyeksportowac do png. Zycze przyjemnej zabawy :P
