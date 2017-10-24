@@ -18,6 +18,9 @@ import javax.imageio.ImageIO;
 import java.awt.image.RenderedImage;
 import java.io.*;
 
+//Praktykuje obsluge gita, dodaje ten komentarz by miec zmiany xDDD.
+//Jesli kiedys sie znajdzie ktos poza mna, kto to czyta to prosze nie smiej sie ze mnie :)
+
 /**
  * Projekt: Kreator graficzny
  * Prosty kreator pozwalający na rysowanie podstawowych figur w różnych kolorach, zmienianie
@@ -95,7 +98,7 @@ public class Main extends Application {
         //Wybór narzędzia
         Label toolLabel = new Label("Tool:");
         ComboBox<String> toolComboBox = new ComboBox<>();
-        
+
         toolComboBox.getItems().addAll("Move", "Line", "Circle", "Rectangle", "Polygon");
         toolComboBox.setValue("Move");
 
